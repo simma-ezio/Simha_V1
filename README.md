@@ -1,10 +1,10 @@
 # Simha_V1
-# Chatbot NLP Project
+#  NLP Project
 
 📌 **Project Founder**: Rajasimman M 
 📅 **Started On**: April 23, 2025
 
-This open-source project was initiated by Rajasimman M to explore and build an chatbot using Natural Language Processing (NLP) techniques.
+This open-source project was initiated by Rajasimman M to explore Natural Language Processing (NLP) techniques for understanding skill demands by Industry for job roles.
 
 The goal is to create a student-collaborative environment where we experiment with open-source tools, models, and conversational AI.
 
@@ -17,7 +17,7 @@ The goal is to create a student-collaborative environment where we experiment wi
 
 ### 📜 License
 
-This project will use the MIT license (see LICENSE file). You are free to use, fork, and contribute under the terms of the license.
+This project will use the  license (see LICENSE file). You are free to use, fork, and contribute under the terms of the license.
 
 ### 🤝 Contributions
 
