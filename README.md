@@ -23,4 +23,4 @@ This project will use the  license (see LICENSE file). You are free to use, fork
 
 If you're a student or enthusiast, feel free to contribute! Open issues, add ideas, or help build the project. Contributions must follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-🛡️ This project is released for non-commercial use only. See [LICENSE] (LICENSE.md) for full terms.
+🛡️ This project is released for non-commercial use only. See [LICENSE](LICENSE.md) for full terms.
