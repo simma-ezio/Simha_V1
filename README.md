@@ -13,7 +13,7 @@ The goal is to create a student-collaborative environment where we experiment wi
 - This project was conceptualized and founded by Rajasimman M.
 - It is open for collaboration, learning, and contribution.
 - All contributors will be credited.
-- Please **do not claim the project idea as your own** in other forums or platforms.
+
 
 ### 📜 License
 
